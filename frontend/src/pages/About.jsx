@@ -71,36 +71,33 @@ const About = () => {
 
   const developers = [
     {
-      name: "Hiten Vaid",
+      name: "Ananda krishnan sd",
       role: "Full Stack Developer",
-      avatar: "https://media.licdn.com/dms/image/v2/D5635AQFhomkTUte_kA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1714657742353?e=1766750400&v=beta&t=8AV7Mkb3TUV-Y7u0O9f7hRIvquN009PonFTk5bKeUEk",
+      avatar: "C:\Users\anand\OneDrive\Pictures\Screenshots\ananda.jpg",
       bio: "Passionate about creating seamless user experiences with modern web technologies.",
       social: {
-        github: "https://github.com/hiten-v",
-        linkedin: "https://linkedin.com/in/hiten-v",
-        instagram: "https://instagram.com/hitenvaid"
+        github: "https://github.com/Anandakrishnansd",
+        linkedin: "https://www.linkedin.com/in/ananda-tech/"
       }
     },
     {
-      name: "Shreyansh Tripathi",
+      name: "Sarthak Kumar Saini",
       role: "Full Stack Developer",
-      avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?auto=format&fit=crop&q=80&w=100",
+      avatar: "https://lh3.googleusercontent.com/gg-dl/ABS2GSkvdMosmJioLNlDAZwGOXvnf2iZ4MRUvD9RHGC7xZn5mgRhOj8mO2jniKjvItjM68WTEvVOqzcNiC91_SxfH2cDhSIHptOczvGe-6Tw7farQdIDtbGyeizFqhy2MNONGU8WJwLeg8I2Ty5NFQMKy9HnP6OCrxnA2sb6Pcsec5_wiGll2g=s1024-rj",
       bio: "Design enthusiast focused on creating intuitive and beautiful interfaces.",
       social: {
-        github: "https://github.com/priya",
-        linkedin: "https://linkedin.com/in/priya",
-        instagram: "https://instagram.com/priya"
+        github: "https://github.com/Sarthaksaini03",
+        linkedin: "https://www.linkedin.com/in/sarthak-kumar-saini3505/",
       }
     },
     {
-      name: "Himanshu",
-      role: "Backend Developer",
-      avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=100",
+      name: "Ashish Yadav",
+      role: "Full Stack Developer",
+      //avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop80&w100",
       bio: "Expert in scalable backend systems and database architecture.",
       social: {
-        github: "https://github.com/rahul",
-        linkedin: "https://linkedin.com/in/rahul",
-        twitter: "https://twitter.com/rahul"
+        github: "https://github.com/AshishYadav101",
+        linkedin: "https://www.linkedin.com/in/ashishyadav12/",
       }
     }
   ];
